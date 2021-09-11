@@ -1,6 +1,6 @@
 #   Lab Assignemnt on "DICTIONARIES" 
 #   Task 3
-#   Submitted By: 2019-CE-3 (SUNDAS NOREEN)
+#   Submitted By: SUNDAS NOREEN
 
 lloyd = {
   "name": "Lloyd",
