@@ -1,6 +1,6 @@
 # Programming Fundamentals (Lab)
 # Problem Set 3 - HangMan
-# Submitted By: Sundas Noreen (2019-CE-03)
+# Submitted By: Sundas Noreen
 
 import random                    # Function to generate Random strings.
 import string                    # String Function.
