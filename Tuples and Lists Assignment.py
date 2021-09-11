@@ -1,4 +1,4 @@
-#Tuples and List by "2019-CE-3" (Sundas Noreen)
+#Tuples and List by Sundas Noreen
 #Writing a function that emulates the builtin zip function.
 #It will take  iterables and return a list of tuples.
 #Each tuple will contain one element from each of the iterables passed to the function.
