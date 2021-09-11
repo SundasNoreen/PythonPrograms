@@ -1,4 +1,3 @@
-#Registration Number: 2019-CE-3
 #Name: Sundas Noreen
 #Program to Count Leters and Digits in a string.
  
