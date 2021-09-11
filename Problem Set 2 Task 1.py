@@ -1,6 +1,6 @@
 # Programming Fundamentals
 # Problem Set 2
-# Submitted By: Sundas Noreen (2019-CE-3)
+# Submitted By: Sundas Noreen 
 # Task 1
 
 #   Sets of 50-55 MCNuggets by combinations of 6, 9 and 20 packs.
