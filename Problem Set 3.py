@@ -1,6 +1,6 @@
 # Programming Fundamentals Lab
 # Problem Set 3
-# Submitted by: 2019-CE-3 (Sundas Noreen)
+# Submitted by: Sundas Noreen
 
 import math
 import random
