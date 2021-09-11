@@ -1,6 +1,6 @@
 #   Lab Assignemnt on "DICTIONARIES" 
 #   Task 2
-#   Submitted By: 2019-CE-3 (SUNDAS NOREEN)
+#   Submitted By: SUNDAS NOREEN
 
 inventory = {
     'gold' : 500,
