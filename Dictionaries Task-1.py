@@ -1,6 +1,6 @@
 #   Lab Assignemnt on "DICTIONARIES" 
 #   Task 1
-#   Submitted By: 2019-CE-3 (SUNDAS NOREEN)
+#   Submitted By: SUNDAS NOREEN
 #   A Python program to find the highest 4 values in a dictionary.
 
 
