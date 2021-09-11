@@ -1,6 +1,6 @@
 # Programming Fundamentals
 # Problem Set 2
-# Submitted By: Sundas Noreen (2019-CE-3)
+# Submitted By: Sundas Noreen 
 # Task 2
 
 # Yes ,it is possible to buy any number of McNuggets >= x, given that McNuggets come in 6, 9 and 20 packs if for some x, we can buy x, x+1,…, x+5 sets of McNuggets.
