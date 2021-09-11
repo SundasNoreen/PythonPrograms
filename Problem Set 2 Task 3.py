@@ -1,6 +1,6 @@
 # Programming Fundamentals
 # Problem Set 2
-# Submitted By: Sundas Noreen (2019-CE-3)
+# Submitted By: Sundas Noreen 
 # Task 3
 # To Find Largest number of McNuggets that cannot be bought in exact quantity.
 
