@@ -1,7 +1,7 @@
 # Programming Fundamentals (Lab)
 # Clsses-Object Oriented Programming
 # Date: 11th August 2020
-# Submitted By: Sundas Noreen (2019-CE-03)
+# Submitted By: Sundas Noreen
 
 
 class Rectangle(object):   # Class Definition for Rectangle.
