@@ -1,6 +1,6 @@
 # Programming Fundamentals
 # Problem Set 2
-# Submitted By: Sundas Noreen (2019-CE-3)
+# Submitted By: Sundas Noreen 
 # Task 4
 # Using Tuples to test our program on a variety of choices of Package Sizes.
 
