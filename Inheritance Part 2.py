@@ -1,7 +1,7 @@
 # Programming Fundamentals Lab
 # Task on Inheritance (Part-2)
 # Date: 18th August 2020
-# Submitted By: 2019-CE-3 (Sundas Noreen)
+# Submitted By: Sundas Noreen
 
 class Publication:              # Class Publication.
     def __init__(self):         # Object Constructor.
